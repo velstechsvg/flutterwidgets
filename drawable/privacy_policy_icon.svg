@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="Group_40078" data-name="Group 40078" transform="translate(-24 -219)">
+    <g id="Rectangle_1473" data-name="Rectangle 1473" transform="translate(24 219)" fill="#f7f7f7" stroke="#e7e7e7" stroke-width="1">
+      <rect width="34" height="34" rx="6" stroke="none"/>
+      <rect x="0.5" y="0.5" width="33" height="33" rx="5.5" fill="none"/>
+    </g>
+    <g id="o" transform="translate(29 223.5)">
+      <g id="Group_40085" data-name="Group 40085">
+        <path id="Path_32384" data-name="Path 32384" d="M16.75,10.7V8a4.75,4.75,0,0,0-9.5,0v2.7a3.741,3.741,0,0,0-2,3.3v4A3.751,3.751,0,0,0,9,21.75h6A3.751,3.751,0,0,0,18.75,18V14A3.752,3.752,0,0,0,16.75,10.7ZM8.75,8a3.25,3.25,0,0,1,6.5,0v2.28c-.08,0-.16-.03-.25-.03H9a1.9,1.9,0,0,0-.25.03Zm8.5,10A2.253,2.253,0,0,1,15,20.25H9A2.253,2.253,0,0,1,6.75,18V14A2.253,2.253,0,0,1,9,11.75h6A2.253,2.253,0,0,1,17.25,14Z" fill="#171e14"/>
+        <path id="Path_32385" data-name="Path 32385" d="M12,14.25a.755.755,0,0,0-.75.75v2a.75.75,0,0,0,1.5,0V15A.755.755,0,0,0,12,14.25Z" fill="#171e14"/>
+      </g>
+    </g>
+  </g>
+</svg>
